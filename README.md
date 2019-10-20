@@ -2,8 +2,8 @@
 Very simple fork of the repository https://github.com/kourgeorge/arxiv-style. 
 
 With the following differences: 
-1. Fixes \citep and \citet usages. 
-2. Updated to rounded citep biography style (Kour and Saabne, 2014b) instead of numbered [1]. 
+1. Fixed \citep and \citet usages. 
+2. Updated to rounded biography style (Kour and Saabne, 2014b) instead of numbered one [1]. 
 3. Removed manual bibliography sections. 
 
 ## Description:
