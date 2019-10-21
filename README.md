@@ -5,6 +5,7 @@ With the following differences:
 1. Fixed \citep and \citet usages. 
 2. Updated to rounded bibliography style (Kour and Saabne, 2014b) instead of numbered one [1]. 
 3. Removed manual bibliography sections. 
+4. Changed style defaults to 'abovecaption' setting for tables. 
 
 ## Description:
 
